@@ -311,7 +311,7 @@ print(sub_numbers(4, 2))
 print("What is your name ?")
 # Stores everything you type until you hit ENTER
 name = sys.stdin.readline()
-print('Hello', name)
+print("Hello", name)
 
 # endregion
 
