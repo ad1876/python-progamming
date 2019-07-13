@@ -529,6 +529,7 @@ print(cat.toString())
 # region INHERITANCE -------------
 # You can inherit all of the variables and methods from another class
 
+
 class Dog(Animal):
     __owner = None
 

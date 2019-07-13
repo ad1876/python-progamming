@@ -59,12 +59,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CheatSheet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="527" lean-forward="true" selection-start-line="527" selection-end-line="527" />
+            <state relative-caret-position="335">
+              <caret line="528" selection-start-line="528" selection-end-line="528" />
               <folding>
                 <element signature="e#122#147#0" />
                 <element signature="e#650#679#0" />
@@ -87,6 +87,7 @@
                 <element signature="e#5997#6025#0" />
                 <element signature="e#6692#6721#0" />
                 <element signature="e#7311#7338#0" />
+                <element signature="e#7958#7986#0" />
                 <element signature="e#8129#8154#0" />
                 <element signature="e#9396#9432#0" />
                 <element signature="e#13553#13595#0" />
@@ -291,8 +292,8 @@
     <entry file="file://$PROJECT_DIR$/MyVersion.py" />
     <entry file="file://$PROJECT_DIR$/CheatSheet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="527" lean-forward="true" selection-start-line="527" selection-end-line="527" />
+        <state relative-caret-position="335">
+          <caret line="528" selection-start-line="528" selection-end-line="528" />
           <folding>
             <element signature="e#122#147#0" />
             <element signature="e#650#679#0" />
@@ -304,6 +305,7 @@
             <element signature="e#5997#6025#0" />
             <element signature="e#6692#6721#0" />
             <element signature="e#7311#7338#0" />
+            <element signature="e#7958#7986#0" />
             <element signature="e#8129#8154#0" />
             <element signature="e#9396#9432#0" />
             <element signature="e#13553#13595#0" />
