@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca6251bb-8a98-4526-92a5-9ba976098b36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DerekBanas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +18,13 @@
     <session id="1162906398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,22 +43,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="2770" />
+          <entry key="Python Console" value="2778" />
           <entry key="py" value="18436" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="21206" />
+          <entry key="Python" value="21214" />
         </counts>
       </usages-collector>
     </session>
     <session id="1785901155">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -84,13 +91,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CheatSheet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="528" selection-start-line="528" selection-end-line="528" />
+            <state relative-caret-position="429">
+              <caret line="88" column="17" lean-forward="true" selection-start-line="73" selection-end-line="89" selection-end-column="17" />
               <folding>
-                <element signature="e#122#147#0" />
                 <element signature="e#650#679#0" />
-                <element signature="e#1157#1183#0" />
-                <element signature="e#1914#1938#0" />
                 <element signature="e#3291#3316#0" />
                 <element signature="e#3872#3908#0" />
                 <element signature="e#4662#4693#0" />
@@ -100,8 +104,6 @@
                 <element signature="e#7958#7986#0" />
                 <element signature="e#8129#8154#0" />
                 <element signature="e#9396#9432#0" />
-                <element signature="e#13553#13595#0" />
-                <element signature="e#15192#15226#0" />
               </folding>
             </state>
           </provider>
@@ -134,10 +136,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="267" />
+    <option name="y" value="117" />
+    <option name="width" value="1396" />
+    <option name="height" value="809" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -145,6 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,7 +180,7 @@
   </component>
   <component name="RunManager" selected="Python.CheatSheet">
     <configuration name="CheatSheet" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_programming" />
+      <module name="DerekBanas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -198,7 +201,7 @@
       <method v="2" />
     </configuration>
     <configuration name="MyVersion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_programming" />
+      <module name="DerekBanas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -252,9 +255,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17307693" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.085353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,9 +268,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.35032538" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49947312" weight="0.4074074" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947312" weight="0.32212582" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.49947312" visible="true" weight="0.4067245" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -294,6 +297,22 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CheatSheet.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CheatSheet.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
@@ -327,13 +346,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CheatSheet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="528" selection-start-line="528" selection-end-line="528" />
+        <state relative-caret-position="429">
+          <caret line="88" column="17" lean-forward="true" selection-start-line="73" selection-end-line="89" selection-end-column="17" />
           <folding>
-            <element signature="e#122#147#0" />
             <element signature="e#650#679#0" />
-            <element signature="e#1157#1183#0" />
-            <element signature="e#1914#1938#0" />
             <element signature="e#3291#3316#0" />
             <element signature="e#3872#3908#0" />
             <element signature="e#4662#4693#0" />
@@ -343,8 +359,6 @@
             <element signature="e#7958#7986#0" />
             <element signature="e#8129#8154#0" />
             <element signature="e#9396#9432#0" />
-            <element signature="e#13553#13595#0" />
-            <element signature="e#15192#15226#0" />
           </folding>
         </state>
       </provider>
