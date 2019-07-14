@@ -527,7 +527,7 @@ print(cat.toString())
 # endregion
 
 # region INHERITANCE -------------
-# You can inherit all of the variables and methods from another class
+# You can inherit all of the variables and methods from another class.
 
 
 class Dog(Animal):
