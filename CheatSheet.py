@@ -455,7 +455,7 @@ with open('Capture.PNG', 'rb') as read_image:
         rf = read_image.read()
         write_image.write(bytes(rf))
 
-# remove something from OS
+# remove something from OS.
 os.remove('Capture.PNG')
 os.remove('copy_Capture.PNG')
 os.remove('A.txt')
