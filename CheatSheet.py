@@ -521,7 +521,7 @@ cat = Animal('Whiskers', 33, 10, 'Meow')
 
 print(cat.toString())
 
-# You can't access this value directly because it is private
+# You can't access this value directly because it is private.
 #print(cat.__name)
 
 # endregion
