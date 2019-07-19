@@ -1,2 +1,2 @@
-/DerekBanas/venv/
-/DerekBanas/.idea/
+/venv/*
+/.idea/*
